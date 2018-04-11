@@ -22,15 +22,15 @@ Slides for [Data Science with Python](https://www.datacamp.com/tracks/data-scien
 
 
 
-### Importing Data in Python (Part 1)  
+### Importing Data in Python (Part 1)   :ballot_box_with_check:
 
 
 
-### Importing Data in Python (Part 2)
+### Importing Data in Python (Part 2)  :ballot_box_with_check:
 
 
 
-### Cleaning Data in Python
+### Cleaning Data in Python   :hourglass:
 
 
 
@@ -40,8 +40,8 @@ Slides for [Data Science with Python](https://www.datacamp.com/tracks/data-scien
 
 
 
-### Manipulating DataFrames with pandas   :hourglass:
+### Manipulating DataFrames with pandas   :ballot_box_with_check:
 
-### Merging DataFrames with pandas   :hourglass:
+### Merging DataFrames with pandas   :ballot_box_with_check:
 
-
+### Introduction to Databases in Python  :ballot_box_with_check:
